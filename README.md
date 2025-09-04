@@ -1,33 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=350&section=header&text=MAHAN%20NOURHOSSEINI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20software%20that%20matters&descSize=20&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=400&section=header&text=MAHAN%20NOURHOSSEINI&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%26%20ML%20ENGINEER&descSize=24&descAlignY=65"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Computer+Science+%40+University+of+Toronto;Full-Stack+Developer+%26+Machine+Learning+Engineer;Creating+tools+that+solve+real+problems;Turning+complex+algorithms+into+simple+solutions" alt="Dynamic Bio" />
-</div>
-
-<br>
-
-<div align="center">
-  
-  ![](https://img.shields.io/badge/🎓_Education-University_of_Toronto_CS-003366?style=for-the-badge&logo=university&logoColor=white)
-  ![](https://img.shields.io/badge/🌍_Location-Toronto,_Canada-red?style=for-the-badge&logo=location&logoColor=white)
-  ![](https://img.shields.io/badge/💼_Status-Open_to_opportunities-success?style=for-the-badge&logo=handshake&logoColor=white)
-  
-</div>
-
-<div align="center">
-  <h3>Connect & Collaborate</h3>
-  
-  <a href="https://www.linkedin.com/in/mahan-nourhosseinalipour-b4aa36235">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mahan.mnnr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/MahanNoosh">
-    <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=1200&height=100&lines=Building+digital+experiences+that+matter;Computer+Science+%40+University+of+Toronto;Creating+intelligent+systems+%26+beautiful+interfaces;Turning+complex+problems+into+simple+solutions" alt="Dynamic Bio" />
 </div>
 
 <br>
@@ -36,435 +12,333 @@
   <img src="https://github.com/MahanNoosh/MahanNoosh/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
----
-
-## 👨‍💻 About Me
-
-```typescript
-interface Developer {
-  name: string;
-  focus: string[];
-  currentWork: string[];
-  interests: string[];
-  goals: string[];
-}
-
-const mahan: Developer = {
-  name: "Mahan Nourhosseini",
-  focus: [
-    "Building scalable web applications",
-    "Implementing machine learning solutions",
-    "Creating intelligent game systems",
-    "Developing financial technology tools"
-  ],
-  currentWork: [
-    "Adrima - Financial education platform with real users",
-    "Advanced game AI algorithms and strategy systems", 
-    "Full-stack applications using modern tech stacks",
-    "Open source contributions and community projects"
-  ],
-  interests: [
-    "Algorithms that solve complex problems efficiently",
-    "User interfaces that people actually enjoy using",
-    "Systems that can learn and adapt over time",
-    "Code that other developers find clean and maintainable"
-  ],
-  goals: [
-    "Build software that positively impacts people's lives",
-    "Contribute to open source projects that matter",
-    "Learn from experienced developers and teams",
-    "Share knowledge through code and documentation"
-  ]
-};
-```
-
-I'm passionate about creating software that bridges the gap between complex technical challenges and real-world solutions. Whether it's building responsive web applications, training neural networks, or designing game mechanics, I focus on writing code that's both technically sound and practically useful.
-
----
-
-## 🛠 Technology Stack
-
 <div align="center">
-
-### Languages & Core Technologies
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sql" width="48" height="48" alt="SQL" />
-      <br>SQL
-    </td>
-  </tr>
-</table>
-
-### Frontend Development
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-  </tr>
-</table>
-
-### Backend & Infrastructure
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-  </tr>
-</table>
-
-### Machine Learning & Data Science
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-      <br>NumPy
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
-      <br>Scikit-learn
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
-      <br>Jupyter
-    </td>
-  </tr>
-</table>
-
+  
+  <img src="https://img.shields.io/badge/🎓-University_of_Toronto_CS-003366?style=for-the-badge&logo=university&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌍-Toronto,_Canada-E31837?style=for-the-badge&logo=location&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💼-Available_for_Opportunities-00C851?style=for-the-badge&logo=handshake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🚀-Building_the_Future-FF6B35?style=for-the-badge&logo=rocket&logoColor=white"/>
+  
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 🔗 TaskShare - Social Task Management Platform
-**Live Application:** [taskshare.onrender.com](https://web-development-project-1.onrender.com)
-
-A full-stack social productivity platform built with the MERN stack, featuring secure authentication, real-time collaboration, and flexible privacy controls.
-
-```javascript
-// Core architecture overview
-const taskShare = {
-  frontend: "React with modern hooks and context management",
-  backend: "Node.js/Express with RESTful API design",
-  database: "MongoDB with optimized schemas",
-  authentication: "JWT tokens with HTTP-only cookies",
-  realTime: "WebSocket integration for live updates",
-  deployment: "Production-ready on Render with CI/CD"
-};
-```
-
-**Key Features:**
-- **Secure Authentication**: JWT-based system with cookie storage
-- **Real-time Collaboration**: Live updates across all connected clients
-- **Flexible Privacy**: Granular control over task and profile visibility
-- **Responsive Design**: Works seamlessly across all device sizes
-- **Performance Optimized**: Fast loading and smooth user interactions
-
-**Technical Highlights:**
-- Clean, modular codebase with consistent patterns
-- Comprehensive error handling and validation
-- Database optimization with proper indexing
-- Security best practices implemented throughout
-
----
-
-### 🎮 3D Connect Four with Intelligent AI
-**Repository:** [github.com/MahanNoosh/3D-Connect-4](https://github.com/MahanNoosh/3D-Connect-4)
-
-An advanced implementation of Connect Four featuring a custom AI algorithm with a 90%+ win rate against human players.
-
-```java
-// AI decision-making system
-public class GameAI {
-    private static final int MAX_DEPTH = 7;
-    private final int[][] evaluationMatrix;
-    
-    public Move getBestMove(GameState state) {
-        // Minimax algorithm with alpha-beta pruning
-        // Evaluates 10,000+ positions per move
-        // Considers both offensive and defensive strategies
-        return optimizeMove(state, MAX_DEPTH, true);
-    }
-    
-    private int evaluatePosition(GameState state) {
-        // Multi-factor evaluation:
-        // - Immediate win/loss conditions
-        // - Strategic position control
-        // - Future move potential
-        // - Blocking opponent opportunities
-    }
-}
-```
-
-**Technical Implementation:**
-- **AI Algorithm**: Minimax with alpha-beta pruning for efficient search
-- **Evaluation System**: Multi-layered position scoring considering various strategic factors
-- **3D Visualization**: Custom Java Swing interface with intuitive controls
-- **Performance**: Optimized to evaluate thousands of positions within milliseconds
-- **Adaptability**: AI adjusts strategy based on opponent play patterns
-
-**Results:**
-- 90%+ win rate against human players in testing
-- Consistent strategic play that improves over multiple games
-- Clean, readable code that demonstrates algorithmic thinking
-
----
-
-### 💰 Adrima - Financial Education Platform
-**Status:** Early user testing phase
-
-A web application focused on making financial education accessible and engaging, currently being tested with real users to gather feedback and iterate on features.
-
-```python
-# Core platform architecture
-class FinancialEducationPlatform:
-    def __init__(self):
-        self.learning_modules = [
-            "Personal budgeting and expense tracking",
-            "Investment fundamentals and portfolio theory", 
-            "Credit management and debt strategies",
-            "Retirement planning and long-term goals"
-        ]
-        self.user_progress_tracking = True
-        self.personalized_recommendations = True
-        self.community_features = True
-    
-    def create_learning_path(self, user_profile):
-        # Customize content based on:
-        # - Current financial knowledge level
-        # - Personal goals and timeline
-        # - Risk tolerance and preferences
-        # - Learning style and pace
-        return personalized_curriculum
-```
-
-**Development Focus:**
-- **User-Centered Design**: Iterating based on real user feedback
-- **Progressive Learning**: Structured curriculum that builds knowledge systematically
-- **Practical Application**: Tools and exercises that users can apply immediately
-- **Community Support**: Features that connect learners with similar goals
-
-**Current Progress:**
-- Early prototype deployed and being tested by initial user group
-- Gathering feedback on user experience and educational effectiveness
-- Refining content delivery and engagement mechanisms
-- Planning broader launch based on user validation
-
----
-
-### 🕹️ Game of Life Pong
-**Concept:** Conway's Game of Life meets classic Pong gameplay
-
-An experimental game that combines cellular automata with traditional gaming mechanics, creating unique and unpredictable gameplay experiences.
-
-```python
-# Game mechanics fusion
-class GameOfLifePong:
-    def __init__(self):
-        self.cellular_automata = ConwayGameOfLife()
-        self.pong_mechanics = ClassicPong()
-        self.hybrid_rules = self.create_hybrid_system()
-    
-    def update_game_state(self):
-        # Standard pong physics
-        self.update_ball_position()
-        self.update_paddle_positions()
-        
-        # Cellular automata influence
-        self.apply_life_rules_to_paddles()
-        self.evolve_game_environment()
-        
-        # Create emergent gameplay
-        return self.generate_unique_experience()
-    
-    def apply_life_rules_to_paddles(self):
-        # Paddle behavior influenced by:
-        # - Neighboring cell states
-        # - Survival and reproduction rules
-        # - Player input combined with automata evolution
-        pass
-```
-
-**Innovation:**
-- **Emergent Gameplay**: Each game session creates unique patterns and challenges
-- **Mathematical Foundation**: Based on Conway's cellular automata principles  
-- **Interactive Evolution**: Player actions influence the cellular automata system
-- **Visual Appeal**: Beautiful patterns emerge from the mathematical rules
-
-**Technical Challenges Solved:**
-- Balancing deterministic cellular automata with interactive gameplay
-- Creating visually appealing representations of mathematical concepts
-- Maintaining game performance while running complex simulations
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahanNoosh&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-</div>
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MahanNoosh&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&text_color=FFF&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahanNoosh&layout=compact&langs_count=10&theme=tokyonight&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=FFF&hide_border=true&custom_title=Language%20Usage"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahanNoosh&theme=tokyonight&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=FFF&currStreakNum=FFF&sideNums=FFF&dates=FFF&hide_border=true" />
-</div>
-
----
-
-## 🌱 Current Focus & Learning
-
-```typescript
-interface CurrentLearning {
-  technicalSkills: string[];
-  projects: string[];
-  goals: string[];
-  interests: string[];
-}
-
-const currentFocus: CurrentLearning = {
-  technicalSkills: [
-    "Advanced React patterns and performance optimization",
-    "Machine learning model deployment and scaling",
-    "Cloud architecture and microservices design",
-    "Database optimization and query performance",
-    "System design for high-availability applications"
-  ],
-  projects: [
-    "Expanding Adrima with user feedback integration",
-    "Building developer tools for improved productivity",
-    "Contributing to open source machine learning libraries",
-    "Exploring advanced game AI algorithms and techniques"
-  ],
-  goals: [
-    "Build software that solves meaningful problems",
-    "Contribute to projects that help other developers",
-    "Learn from experienced teams and mentors",
-    "Share knowledge through clean code and documentation"
-  ],
-  interests: [
-    "Algorithms that make complex problems simple",
-    "User interfaces that feel intuitive and responsive",
-    "Machine learning applications in everyday software",
-    "Game mechanics that create engaging experiences"
-  ]
-};
-```
-
-I'm particularly interested in working on projects where I can apply technical skills to solve real problems, whether that's building web applications that people actually use, implementing machine learning solutions that provide genuine value, or contributing to open source projects that benefit the developer community.
-
----
-
-## 🤝 Let's Collaborate
-
-I'm always interested in connecting with other developers, especially on projects involving:
-
-- **Web Applications**: Building full-stack solutions with modern technologies
-- **Machine Learning**: Implementing practical AI/ML solutions for real-world problems  
-- **Open Source**: Contributing to tools and libraries that help other developers
-- **Game Development**: Creating intelligent systems and engaging user experiences
-- **Financial Technology**: Building tools that help people make better financial decisions
-
-If you're working on something interesting or looking for someone who enjoys solving complex problems with clean, maintainable code, I'd love to hear from you.
+<br>
 
 <div align="center">
   
-  **Get in touch:**
+  <a href="https://www.linkedin.com/in/mahan-nourhosseinalipour-b4aa36235">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  <a href="mailto:mahan.mnnr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+  <a href="https://github.com/MahanNoosh">
+    <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+  </a>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahan-nourhosseinalipour-b4aa36235)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahan.mnnr@gmail.com)
+</div>
+
+---
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1500&color=FF6B35&center=true&vCenter=true&width=600&lines=⚡+TECH+MASTERY+⚡" alt="Tech Header" />
+</h1>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,react,nextjs,nodejs,express,postgresql,mongodb,aws,pytorch,tensorflow,docker,git&perline=8&theme=dark" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahanNoosh&layout=donut&theme=tokyonight&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=FFF&hide_border=true&custom_title=Language%20Breakdown" width="400"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=MahanNoosh&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&text_color=FFF&hide_border=true&custom_title=GitHub%20Performance" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MahanNoosh&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+</div>
+
+---
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1500&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+PROJECT+SHOWCASE+🚀" alt="Projects Header" />
+</h1>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+<h2>🔗 TaskShare</h2>
+
+<div align="center">
+  <a href="https://web-development-project-1.onrender.com">
+    <img src="https://img.shields.io/badge/🌐-LIVE_APPLICATION-success?style=for-the-badge&logo=globe&logoColor=white&labelColor=success"/>
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Frontend-React_+_Modern_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Backend-Node.js_+_Express-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Database-MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Auth-JWT_+_Secure_Cookies-FF6B35?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</div>
+
+**Social productivity platform revolutionizing team collaboration**
+
+🎯 **Real-time task sharing and management**  
+🔒 **Military-grade authentication system**  
+👥 **Flexible privacy controls for teams**  
+⚡ **Lightning-fast responsive interface**  
+📱 **Mobile-optimized user experience**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Impact-Real_Users_Daily-blueviolet?style=for-the-badge&logo=users&logoColor=white"/>
+</div>
+
+</td>
+<td width="50%" align="center">
+
+<h2>🎮 3D Connect Four</h2>
+
+<div align="center">
+  <a href="https://github.com/MahanNoosh/3D-Connect-4">
+    <img src="https://img.shields.io/badge/⭐-GITHUB_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/AI_Win_Rate-90%25+-FF6B35?style=for-the-badge&logo=brain&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Algorithm-Minimax_+_Pruning-9146FF?style=for-the-badge&logo=algorithm&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Interface-Java_Swing_3D-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Performance-10K+_Calculations/sec-00D9FF?style=for-the-badge&logo=speedometer&logoColor=white"/>
+</div>
+
+**Advanced game AI that consistently defeats human players**
+
+🧠 **Intelligent decision-making algorithm**  
+🎯 **Strategic position evaluation system**  
+⚡ **Real-time move calculation engine**  
+🎨 **Beautiful 3D visualization interface**  
+🏆 **Undefeated tournament record**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Achievement-Human_Crusher-gold?style=for-the-badge&logo=trophy&logoColor=white"/>
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<h2>💰 Adrima Platform</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-User_Testing_Phase-blueviolet?style=for-the-badge&logo=users&logoColor=white"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Mission-Financial_Education-00C851?style=for-the-badge&logo=education&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Users-Early_Adopters_Active-FF6B35?style=for-the-badge&logo=trending-up&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Platform-Web_Application-0077B5?style=for-the-badge&logo=web&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Launch-Q4_2025-E31837?style=for-the-badge&logo=calendar&logoColor=white"/>
+</div>
+
+**Making financial literacy accessible to everyone**
+
+📚 **Comprehensive learning modules**  
+👥 **Community-driven approach**  
+📊 **Progress tracking and analytics**  
+🎯 **Personalized learning paths**  
+💡 **Practical financial tools**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Vision-Democratize_Finance-success?style=for-the-badge&logo=target&logoColor=white"/>
+</div>
+
+</td>
+<td width="50%" align="center">
+
+<h2>🕹️ Game of Life Pong</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Concept-Mathematical_Gaming-9146FF?style=for-the-badge&logo=atom&logoColor=white"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Innovation-Conway_+_Pong-00D9FF?style=for-the-badge&logo=gamepad&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Mechanics-Cellular_Automata-FF6B35?style=for-the-badge&logo=dna&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Uniqueness-Every_Game_Different-gold?style=for-the-badge&logo=sparkles&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Art-Mathematics_+_Beauty-E31837?style=for-the-badge&logo=palette&logoColor=white"/>
+</div>
+
+**Where mathematical elegance meets interactive entertainment**
+
+🧬 **Conway's Game of Life integration**  
+🎮 **Classic Pong reimagined**  
+⚡ **Dynamic emergent gameplay**  
+🎨 **Mesmerizing visual patterns**  
+🤯 **Mind-bending game mechanics**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Result-Digital_Masterpiece-ff0080?style=for-the-badge&logo=art&logoColor=white"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1500&color=FF6B35&center=true&vCenter=true&width=900&lines=📊+PERFORMANCE+ANALYTICS+📊" alt="Analytics Header" />
+</h1>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahanNoosh&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=🔥%20CONTRIBUTION%20ACTIVITY%20🔥&radius=10" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahanNoosh&theme=tokyonight&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=FFF&currStreakNum=FFF&sideNums=FFF&dates=FFF&hide_border=true&card_width=400" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahanNoosh&theme=tokyonight&hide_border=true" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahanNoosh&theme=tokyonight" width="300"/>
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahanNoosh&theme=tokyonight" width="300"/>
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahanNoosh&theme=tokyonight" width="300"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1500&color=00D9FF&center=true&vCenter=true&width=700&lines=🌱+GROWTH+%26+FOCUS+🌱" alt="Focus Header" />
+</h1>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🎯 Current Projects</h3>
+        <img src="https://img.shields.io/badge/Adrima-User_Feedback_Integration-blueviolet?style=for-the-badge&logo=users&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/Game_AI-Advanced_Algorithms-FF6B35?style=for-the-badge&logo=brain&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/Developer_Tools-Productivity_Enhancement-00D9FF?style=for-the-badge&logo=tools&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/Open_Source-Community_Contributions-00C851?style=for-the-badge&logo=github&logoColor=white"/>
+      </td>
+      <td width="50%" align="center">
+        <h3>📚 Learning Focus</h3>
+        <img src="https://img.shields.io/badge/System_Design-High_Availability-9146FF?style=for-the-badge&logo=architecture&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/Cloud_Architecture-Microservices-FF6B35?style=for-the-badge&logo=cloud&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/ML_Deployment-Production_Scale-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/Performance-Optimization_Mastery-E31837?style=for-the-badge&logo=speedometer&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1500&color=FF6B35&center=true&vCenter=true&width=800&lines=🤝+LET'S+BUILD+TOGETHER+🤝" alt="Collaboration Header" />
+</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&lines=Always+excited+to+collaborate+on+meaningful+projects;Looking+for+opportunities+to+learn+and+grow;Ready+to+contribute+to+impactful+solutions;Let's+create+something+amazing+together!" alt="Collaboration Message" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/🚀-Full_Stack_Development-0077B5?style=for-the-badge&logo=web&logoColor=white"/>
+        <br><sub>Modern web applications with great UX</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/🧠-Machine_Learning-FF6B35?style=for-the-badge&logo=brain&logoColor=white"/>
+        <br><sub>Intelligent systems that solve real problems</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/🎮-Game_Development-9146FF?style=for-the-badge&logo=gamepad&logoColor=white"/>
+        <br><sub>Interactive experiences and smart AI</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/💰-FinTech_Solutions-00C851?style=for-the-badge&logo=dollar-sign&logoColor=white"/>
+        <br><sub>Tools that improve financial well-being</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/🌐-Open_Source-E31837?style=for-the-badge&logo=opensource&logoColor=white"/>
+        <br><sub>Projects that help other developers</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/🚀-Startups-FF6B35?style=for-the-badge&logo=rocket&logoColor=white"/>
+        <br><sub>Building the next generation of tech</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/mahan-nourhosseinalipour-b4aa36235">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=30" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mahan.mnnr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=30" alt="Email"/>
+  </a>
   
 </div>
 
 ---
 
 <div align="center">
+  
+  <h2>🌟 Thank You for Visiting! 🌟</h2>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=3000&color=00D9FF&center=true&vCenter=true&width=800&lines=If+you+found+something+interesting%2C+feel+free+to+star+⭐;Always+open+to+new+opportunities+and+collaborations;Let's+build+the+future+together%2C+one+project+at+a+time!" alt="Thank You" />
+  
+  <br>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=MahanNoosh&color=00D9FF&style=for-the-badge&label=Profile+Views)
   
-  **Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate.**
-  
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&animation=twinkling"/>
 </div>
