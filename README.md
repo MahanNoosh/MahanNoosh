@@ -1,7 +1,7 @@
 # 🌌 WELCOME TO THE DIGITAL UNIVERSE OF MAHAN NOURHOSSEINI 🌌
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=450&section=header&text=MAHAN%20NOURHOSSEINALIPOUR&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=CODE%20ARCHITECT%20•%20AI%20VISIONARY%20•%20DIGITAL%20PIONEER&descSize=28&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=250&section=header&text=MAHAN%20%20NOURHOSSEINALIPOUR&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CODE%20ARCHITECT%20•%20AI%20VISIONARY%20•%20DIGITAL%20PIONEER&descSize=20&descAlignY=60"/>
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/MahanNoosh/MahanNoosh/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/MahanNoosh/MahanNoosh/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <br>
@@ -456,5 +456,5 @@ Have a wild concept that needs technical validation? I love exploring the inters
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=200&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=100&section=footer"/>
 </div>
