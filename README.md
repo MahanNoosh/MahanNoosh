@@ -1,7 +1,7 @@
 # 🚀 Hey, I'm Mahan — Code Architect & AI Enthusiast
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Computer+Science+%40+University+of+Toronto;Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=480&lines=Computer+Science+%40+University+of+Toronto;Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </div>
 
 <div align="center">
