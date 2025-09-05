@@ -1,4 +1,4 @@
-# 🌌 WELCOME TO THE DIGITAL PORTFOLIO OF MAHAN NOURHOSSEINALIPOUR 🌌
+# MAHAN NOURHOSSEINALIPOUR
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=300&section=header&text=SOFTWARE%20ENGINEER&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Scalable%20Solutions%20for%20Complex%20Problems&descSize=20&descAlignY=65"/>
