@@ -51,6 +51,9 @@ For me, software development is not just about meeting requirements—it’s abo
 
 ## Technical Expertise
 
+*Below are my **top 6 skills in each category** — the tools and technologies I work with most frequently and effectively. While I’ve used many others, these highlights reflect where I deliver the strongest results in real projects.*
+
+
 <table align="center" width="100%">
 <tr>
 <td align="center" width="33%">
@@ -60,12 +63,12 @@ For me, software development is not just about meeting requirements—it’s abo
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c&theme=dark&perline=3" />
 </div>
 
-- **Python** – data science, web, automation  
-- **TypeScript** – large-scale applications  
-- **JavaScript** – modern web development  
+- **Python** – automation & ML  
+- **TypeScript** – scalable apps  
+- **JavaScript** – web development  
 - **Java** – enterprise systems  
-- **C++** – algorithms and performance  
-- **C** – systems and embedded development  
+- **C++** – algorithms & optimization  
+- **C** – systems programming  
 
 </td>
 <td align="center" width="33%">
@@ -75,11 +78,12 @@ For me, software development is not just about meeting requirements—it’s abo
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css&theme=dark&perline=3" />
 </div>
 
-- **React** – component-based UIs  
-- **Next.js** – SSR and full-stack apps  
+- **React** – component-driven UIs  
+- **Next.js** – SSR & full-stack apps  
 - **Vue.js** – progressive framework  
-- **Tailwind CSS** – utility-first styling  
-- **HTML5 & CSS3** – responsive design  
+- **Tailwind CSS** – rapid styling  
+- **HTML5** – semantic structure  
+- **CSS3** – responsive layouts  
 
 </td>
 <td align="center" width="33%">
@@ -89,35 +93,64 @@ For me, software development is not just about meeting requirements—it’s abo
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql,redis&theme=dark&perline=3" />
 </div>
 
-- **Node.js / Express** – web APIs  
-- **FastAPI** – high-performance Python APIs  
-- **MongoDB** – NoSQL database  
-- **PostgreSQL** – relational database  
-- **Redis** – in-memory caching  
+- **Node.js** – backend runtime  
+- **Express.js** – REST APIs  
+- **FastAPI** – high-performance APIs  
+- **MongoDB** – NoSQL databases  
+- **PostgreSQL** – relational systems  
+- **Redis** – caching & queues  
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### AI & Machine Learning
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,keras&theme=dark&perline=3" />
+</div>
+
+- **PyTorch** – deep learning  
+- **TensorFlow** – ML pipelines  
+- **Keras** – rapid prototyping  
+- **OpenCV** – computer vision  
+- **Scikit-Learn** – classical ML  
+- **Game AI** – applied algorithms  
+
+</td>
+<td align="center" width="33%">
+
+### Cloud & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,cloudflare,vercel,git&theme=dark&perline=3" />
+</div>
+
+- **AWS** – cloud infrastructure  
+- **Docker** – containerization  
+- **Kubernetes** – orchestration  
+- **Cloudflare Workers** – edge computing  
+- **Vercel** – modern deployment  
+- **GitHub Actions** – CI/CD automation  
+
+</td>
+<td align="center" width="33%">
+
+### Tools & Workflow
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postman,git,vscode,figma,jest,notion&theme=dark&perline=3" />
+</div>
+
+- **Postman** – API testing  
+- **Git & GitHub** – version control  
+- **VS Code & JetBrains IDEs** – productivity  
+- **Figma** – design collaboration  
+- **Jest** – testing framework  
+- **Notion** – project organization  
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-### AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark&perline=4" />
-
-- **PyTorch** – deep learning  
-- **TensorFlow** – ML pipelines  
-- **OpenCV** – computer vision  
-- **Scikit-Learn** – classical ML  
-
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git&theme=dark&perline=4" />
-
-- **AWS** – scalable cloud services  
-- **Docker** – containerization  
-- **Kubernetes** – orchestration  
-- **Git** – version control  
-
-</div>
 
 ---
 
