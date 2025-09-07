@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=1000&height=100&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Committed+to+Scalable+and+Maintainable+Software;15%2B+Production+Projects;Computer+Science+Student+%40+University+of+Toronto" alt="Dynamic Bio" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=1200&height=100&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Committed+to+Scalable+and+Maintainable+Software;15%2B+Production+Projects;Computer+Science+Student+%40+University+of+Toronto" alt="Dynamic Bio" />
 </div>
 
 <div align="center">
@@ -157,39 +157,88 @@ For me, software development is not just about meeting requirements; it’s abou
 
 ## Featured Projects (Chronological)
 
+### Adrima – Financial Education Platform *(Full-Stack In Development)*
+**Stack:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
 
-### Adrima – Financial Education Platform *(In Development)*
-**Stack:** Postgres, ML personalization, TypeScript, Python, R  
-Interactive platform designed to improve financial literacy with AI-driven personalization, real-time data, and community features. Alpha launch planned for Q4 2025.
+**Overview:** Adrima is a full-stack platform aimed at improving financial literacy using AI-driven personalization, real-time analytics, and community engagement. The system leverages machine learning to tailor content and recommendations based on user behavior and preferences.  
+
+**Status:** Alpha launch planned for Q4 2025  
+**Codebase:** Currently 25k+ lines, projected to exceed 200k lines before official release  
+
+<details>
+<summary>Key Features</summary>
+
+- Adaptive AI personalization engine for financial education  
+- Real-time dashboards with performance tracking  
+- Secure authentication and role-based access  
+- Community-driven features: peer discussions, Q&A  
+- PostgreSQL & Redis for reliable data management  
+- Hosted and deployed on AWS infrastructure  
+
+</details>
 
 ---
 
-### VoiceChat – Real-Time Voice Communication 
-**Stack:** WebRTC, Node.js, Socket.io, JavaScript  
-Built for me and my friends to **communicate across countries** where some platforms may be restricted. Provides **private, low-latency audio communication** and solves common issues with existing platforms like group calls and peer-to-peer limitations.  
-Currently used privately by me and my friends, but it can be **hosted on any cloud platform** for others to use.  
-[💻 Source Code](https://github.com/MahanNoosh/VoiceChat)
+### VoiceChat – Real-Time Voice Communication
+**Stack:** ![WebRTC](https://img.shields.io/badge/WebRTC-0078D7?style=flat&logo=webrtc&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
+**Overview:** VoiceChat is a peer-to-peer real-time audio communication platform designed to operate in regions with restricted access to mainstream services. The system ensures low-latency voice calls, group communication, and private channels.  
+
+**Status:** Actively used by private users; deployable on any cloud platform  
+💻 [Source Code](https://github.com/MahanNoosh/VoiceChat)  
 
 ---
 
-### TaskShare – Collaborative Task Management
-**Stack:** MERN + HTTP APIs  
-A full-featured social task management platform supporting real-time collaboration, secure authentication, and analytics dashboards.  
-[🔗 Live Demo](https://web-development-project-1.onrender.com) | [💻 Source Code](https://github.com/MahanNoosh/Web-Development-project)
+### Minesweeper Solver – Automated Game Solver
+**Stack:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3670A0?style=flat&logo=PyAutoGUI&logoColor=white)  
+
+**Overview:** Automates solving Minesweeper by detecting board layout and applying logic-based algorithms to play optimally. Designed as a proof-of-concept for automated game solvers with computer vision and algorithmic strategies.  
+
+**Constraints:** Currently compatible only with Google Minesweeper due to text-based number rendering. Contributions to expand compatibility with other implementations are welcome.  
+💻 [Source Code](https://github.com/MahanNoosh/MinesweeperSolver)  
 
 ---
 
 ### Game of Life Pong – Experimental Visualization
-**Stack:** Python (Pygame)  
-Fusion of Conway’s Game of Life with Pong mechanics, showcasing emergent complexity through gameplay.  
-[💻 Source Code](https://github.com/MahanNoosh/LifePong)
+**Stack:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-000000?style=flat&logo=pygame&logoColor=white)  
+
+**Overview:** Integrates Conway’s Game of Life with Pong mechanics to explore emergent behaviors in interactive simulations. A research-focused project that demonstrates complex patterns arising from simple rules.  
+💻 [Source Code](https://github.com/MahanNoosh/LifePong)  
 
 ---
 
+### TaskShare – Collaborative Task Management
+**Stack:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+
+**Overview:** A full-stack task management platform supporting secure authentication, socializing, and analytics dashboards. Designed for personal use and to improve motivation and efficiency.  
+
+🔗 [Live Demo](https://web-development-project-1.onrender.com) | 💻 [Source Code](https://github.com/MahanNoosh/Web-Development-project)  
+
+<details>
+<summary>Key Features</summary>
+
+- Share tasks with others to get motivated 
+- Analytics dashboards for productivity tracking    
+- Secure authentication and role-based access  
+- REST API with secure endpoints  
+
+</details>
+ 
+---
+
 ### 3D Connect Four AI – Advanced Game AI
-**Stack:** Java (Swing, Score-based AI)  
-Developed an intelligent AI for a 3D Connect Four game with a score-based AI to maximize look-ahead steps, and 90% win rate against baseline opponents.  
-[💻 Source Code](https://github.com/MahanNoosh/3D-Connect-4)
+**Stack:** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+
+**Overview:** Intelligent AI system for a 3D Connect Four game. Utilizes a score-based heuristic to evaluate board states and optimize moves.  
+
+**Performance:** Achieves ~90% win rate against baseline opponents by maximizing look-ahead steps and simulating potential outcomes.  
+💻 [Source Code](https://github.com/MahanNoosh/3D-Connect-4)  
+
+---
+
+### Other projects
+
+[Tank Game](https://github.com/MahanNoosh/Tank-Game)
 
 ---
 
@@ -200,7 +249,7 @@ Developed an intelligent AI for a 3D Connect Four game with a score-based AI to 
 | **Contributions** | **Projects** | **Focus** |
 |:---:|:---:|:---:|
 | 200+ commits this year | 3+ active projects | Continuous learning |
-| Consistent commit history | 10+ freelance projects | Strong problem-solving |
+| Consistent commit history | 5+ freelance projects | Strong problem-solving |
 | Weekly coding practice | 600+ hours | Expanding expertise |
 
 </div>
