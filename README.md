@@ -27,7 +27,7 @@
   <a href="mailto:mahan.mnnr@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
-  <a href="https://github.com/MahanNoosh">
+  <a href="https://github.com/MahanNoosh?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
 </div>
@@ -38,7 +38,7 @@
 
 I build software that balances technical strength with practical usability. My work emphasizes clean, maintainable code, scalable architectures, and solutions that deliver measurable value.  
 
-For me, software development is not just about meeting requirements—it’s about exceeding expectations, improving efficiency, and creating meaningful user experiences.
+For me, software development is not just about meeting requirements; it’s about exceeding expectations, improving efficiency, and creating meaningful user experiences.
 
 ---
 
@@ -51,7 +51,7 @@ For me, software development is not just about meeting requirements—it’s abo
 
 ## Technical Expertise
 
-*Below are my **top 6 skills in each category** — the tools and technologies I work with most frequently and effectively. While I’ve used many others, these highlights reflect where I deliver the strongest results in real projects.*
+*Below are my **top 6 tools and technologies in each category** that I work with most frequently and effectively.*
 
 
 <table align="center" width="100%">
@@ -84,6 +84,7 @@ For me, software development is not just about meeting requirements—it’s abo
 - **Tailwind CSS** – rapid styling  
 - **HTML5** – semantic structure  
 - **CSS3** – responsive layouts  
+
 
 </td>
 <td align="center" width="33%">
@@ -128,7 +129,7 @@ For me, software development is not just about meeting requirements—it’s abo
 - **AWS** – cloud infrastructure  
 - **Docker** – containerization  
 - **Kubernetes** – orchestration  
-- **Cloudflare Workers** – edge computing  
+- **Cloudflare Workers** – edge computing
 - **Vercel** – modern deployment  
 - **GitHub Actions** – CI/CD automation  
 
@@ -154,31 +155,41 @@ For me, software development is not just about meeting requirements—it’s abo
 
 ---
 
-## Featured Projects
+## Featured Projects (Chronological)
 
-### TaskShare – Collaborative Task Management
-**Stack:** MERN + WebSockets  
-A full-featured task management platform supporting real-time collaboration, secure authentication, and analytics dashboards.  
-[🔗 Live Demo](https://web-development-project-1.onrender.com) | [💻 Source Code](https://github.com/MahanNoosh)
-
----
-
-### 3D Connect Four AI – Advanced Game AI
-**Stack:** Java (Swing, Minimax)  
-Developed an intelligent AI for a 3D Connect Four game with an 8-move lookahead, alpha-beta pruning, and 90% win rate against baseline opponents.  
-[💻 Source Code](https://github.com/MahanNoosh/3D-Connect-4)
-
----
 
 ### Adrima – Financial Education Platform *(In Development)*
-**Stack:** Cloud-native, ML personalization  
-Interactive platform designed to improve financial literacy with AI-driven personalization, gamification, and community features. Launch planned for Q4 2025.
+**Stack:** Postgres, ML personalization, TypeScript, Python, R  
+Interactive platform designed to improve financial literacy with AI-driven personalization, real-time data, and community features. Alpha launch planned for Q4 2025.
+
+---
+
+### VoiceChat – Real-Time Voice Communication 
+**Stack:** WebRTC, Node.js, Socket.io, JavaScript  
+Built for me and my friends to **communicate across countries** where some platforms may be restricted. Provides **private, low-latency audio communication** and solves common issues with existing platforms like group calls and peer-to-peer limitations.  
+Currently used privately by me and my friends, but it can be **hosted on any cloud platform** for others to use.  
+[💻 Source Code](https://github.com/MahanNoosh/VoiceChat)
+
+---
+
+### TaskShare – Collaborative Task Management
+**Stack:** MERN + HTTP APIs  
+A full-featured social task management platform supporting real-time collaboration, secure authentication, and analytics dashboards.  
+[🔗 Live Demo](https://web-development-project-1.onrender.com) | [💻 Source Code](https://github.com/MahanNoosh/Web-Development-project)
 
 ---
 
 ### Game of Life Pong – Experimental Visualization
 **Stack:** Python (Pygame)  
-Fusion of Conway’s Game of Life with Pong mechanics, showcasing emergent complexity through gameplay.
+Fusion of Conway’s Game of Life with Pong mechanics, showcasing emergent complexity through gameplay.  
+[💻 Source Code](https://github.com/MahanNoosh/LifePong)
+
+---
+
+### 3D Connect Four AI – Advanced Game AI
+**Stack:** Java (Swing, Score-based AI)  
+Developed an intelligent AI for a 3D Connect Four game with a score-based AI to maximize look-ahead steps, and 90% win rate against baseline opponents.  
+[💻 Source Code](https://github.com/MahanNoosh/3D-Connect-4)
 
 ---
 
@@ -188,11 +199,12 @@ Fusion of Conway’s Game of Life with Pong mechanics, showcasing emergent compl
 
 | **Contributions** | **Projects** | **Focus** |
 |:---:|:---:|:---:|
-| 500+ commits this year | 15+ active projects | Continuous learning |
-| 95%+ code quality | 8+ tech stacks | Strong problem-solving |
-| Daily coding practice | 1000+ hours | Expanding expertise |
+| 200+ commits this year | 3+ active projects | Continuous learning |
+| Consistent commit history | 10+ freelance projects | Strong problem-solving |
+| Weekly coding practice | 600+ hours | Expanding expertise |
 
 </div>
+                                                                                                                                                                      
 
 ---
 
