@@ -158,7 +158,7 @@ For me, software development is not just about meeting requirements; it’s abou
 ## Featured Projects (Chronological)
 
 ### Adrima – Financial Education Platform *(Full-Stack In Development)*
-**Stack:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+**Stack:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
 
 **Overview:** Adrima is a full-stack platform aimed at improving financial literacy using AI-driven personalization, real-time analytics, and community engagement. The system leverages machine learning to tailor content and recommendations based on user behavior and preferences.  
 
@@ -180,7 +180,7 @@ For me, software development is not just about meeting requirements; it’s abou
 ---
 
 ### VoiceChat – Real-Time Voice Communication
-**Stack:** ![WebRTC](https://img.shields.io/badge/WebRTC-0078D7?style=flat&logo=webrtc&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+**Stack:** ![WebRTC](https://img.shields.io/badge/WebRTC-0078D7?style=flat&logo=webrtc&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
 **Overview:** VoiceChat is a peer-to-peer real-time audio communication platform designed to operate in regions with restricted access to mainstream services. The system ensures low-latency voice calls, group communication, and private channels.  
 
