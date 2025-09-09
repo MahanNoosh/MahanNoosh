@@ -63,7 +63,7 @@ For me, software development is not just about meeting requirements; it’s abou
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c&theme=dark&perline=3" />
 </div>
 
-- **Python** – automation & ML  
+- **Python** – automation & web scraping  
 - **TypeScript** – scalable apps  
 - **JavaScript** – web development  
 - **Java** – enterprise systems  
@@ -236,7 +236,7 @@ For me, software development is not just about meeting requirements; it’s abou
 
 ---
 
-### Other projects
+## Other personal & freelance projects
 
 [Tank Game](https://github.com/MahanNoosh/Tank-Game), [Congress Trade Analysis](https://github.com/MahanNoosh/congress-trade-analysis), [Texed-Based Game](https://github.com/MahanNoosh/text-based-adventure-game), Linosh, SharifGPT Chrome extension, SharifGPT Telegram Bot
 
