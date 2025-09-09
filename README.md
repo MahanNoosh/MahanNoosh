@@ -63,7 +63,7 @@ For me, software development is not just about meeting requirements; it’s abou
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c&theme=dark&perline=3" />
 </div>
 
-- **Python** – automation & web scraping  
+- **Python** – automation, web scraping & ML 
 - **TypeScript** – scalable apps  
 - **JavaScript** – web development  
 - **Java** – enterprise systems  
