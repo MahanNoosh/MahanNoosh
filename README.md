@@ -238,7 +238,7 @@ For me, software development is not just about meeting requirements; it’s abou
 
 ## Other personal & freelance projects
 
-[Tank Game](https://github.com/MahanNoosh/Tank-Game), [Congress Trade Analysis](https://github.com/MahanNoosh/congress-trade-analysis), [Texed-Based Game](https://github.com/MahanNoosh/text-based-adventure-game), Linosh, SharifGPT Chrome extension, SharifGPT Telegram Bot
+[Tank Game](https://github.com/MahanNoosh/Tank-Game), [Congress Trade Analysis](https://github.com/MahanNoosh/congress-trade-analysis), [Climate Analysis](https://github.com/MahanNoosh/ClimateAnalysis), [Text-Based Game](https://github.com/MahanNoosh/text-based-adventure-game), Linosh, SharifGPT Chrome extension, SharifGPT Telegram Bot
 
 ---
 
