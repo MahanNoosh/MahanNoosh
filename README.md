@@ -199,14 +199,6 @@ For me, software development is not just about meeting requirements; it’s abou
 
 ---
 
-### Game of Life Pong – Experimental Visualization
-**Stack:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-000000?style=flat&logo=pygame&logoColor=white)  
-
-**Overview:** Integrates Conway’s Game of Life with Pong mechanics to explore emergent behaviors in interactive simulations. A research-focused project that demonstrates complex patterns arising from simple rules.  
-💻 [Source Code](https://github.com/MahanNoosh/LifePong)  
-
----
-
 ### TaskShare – Collaborative Task Management
 **Stack:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 
@@ -223,6 +215,14 @@ For me, software development is not just about meeting requirements; it’s abou
 - REST API with secure endpoints  
 
 </details>
+
+---
+
+### Game of Life Pong – Experimental Visualization
+**Stack:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-000000?style=flat&logo=pygame&logoColor=white)  
+
+**Overview:** Integrates Conway’s Game of Life with Pong mechanics to explore emergent behaviors in interactive simulations. A research-focused project that demonstrates complex patterns arising from simple rules.  
+💻 [Source Code](https://github.com/MahanNoosh/LifePong)  
  
 ---
 
