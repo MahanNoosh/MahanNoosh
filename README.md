@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mahan-nourhosseinalipour-b4aa36235">
+  <a href="https://www.linkedin.com/in/mahan-nourhosseinalipour/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="mailto:mahan.mnnr@gmail.com">
@@ -282,7 +282,7 @@ I am open to collaborative projects, internships, and professional opportunities
 ## Contact
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mahan-nourhosseinalipour-b4aa36235">
+  <a href="https://www.linkedin.com/in/mahan-nourhosseinalipour/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="mailto:mahan.mnnr@gmail.com">
