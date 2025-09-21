@@ -34,7 +34,7 @@
 
 ---
 
-## Professional Philosophy
+## Professional Mindset
 
 I build software that balances technical strength with practical usability. My work emphasizes clean, maintainable code, scalable architectures, and solutions that deliver measurable value.  
 
