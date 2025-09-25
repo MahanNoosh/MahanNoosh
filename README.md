@@ -17,7 +17,7 @@
 <div align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Computer%20Science-University%20of%20Toronto-003366?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=003366"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Toronto-Canada-E31837?style=for-the-badge&logo=location&logoColor=white&labelColor=E31837"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Open%20to%20Opportunities-00C851?style=for-the-badge&logo=handshake&logoColor=white&labelColor=00C851"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Open%20to%20Opportunities-00C851?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=00C851"/>
 </div>
 
 <div align="center">
