@@ -15,14 +15,14 @@
 <br>
 
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Computer%20Science-University%20of%20Toronto-003366?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=003366"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Computer%20Science-University%20of%20Toronto-003366?style=for-the-badge&logo=uoftcustomlogo&logoColor=white&labelColor=003366"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Toronto-Canada-E31837?style=for-the-badge&logo=location&logoColor=white&labelColor=E31837"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Open%20to%20Opportunities-00C851?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=00C851"/>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mahan-nourhosseinalipour/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedncustomlogo&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="mailto:mahan.mnnr@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
